@@ -1,5 +1,6 @@
+
 # ReactNative-App
-DateApp written with ReactNative and expo.
+
 
 <p>
  <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" width="250" title="https://docs.expo.dev/">
@@ -19,3 +20,4 @@ Mpre details about [GlobalLogic](https://styled-components.com/) and [ReactNativ
 * run yarn
 * run expo start
 * procceed the [instructions](https://docs.expo.dev/get-started/create-a-new-app/) 
+
